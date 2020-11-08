@@ -1,5 +1,7 @@
 #24 recipes to start a local sample archive
 
+![](./images/finalpics-16_foam_GOOD.jpg)
+
 |||||
 |---|---|---|---|
 | [![](../../images/finalpics-16_foam_GOOD.jpg)](../../../files/recipes/biofoam/) Biofoam | [![](../../images/finalpics-67.jpg)](../../../files/recipes/biofoilextraflexible) Gelatin foil |[![](../../images/finalpics-37.jpg)](../../../files/recipes/bioresin) Bioresin | [![](../../images/finalpics-45_silicone.jpg)](../../../files/recipes/biosilicon) Biosilicone |
